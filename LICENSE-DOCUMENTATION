@@ -1,0 +1,27 @@
+BLE-MIRABILIS-BLUE Documentation License
+
+Copyright (c) 2026 Max Hiroyuki Ueda
+
+Unless otherwise noted, the documentation in this repository — including the
+Firmware Developer Guide, GATT Reference, diagrams, explanatory material, and
+README documentation — is licensed under the Creative Commons Attribution
+4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the licensed documentation, including for
+commercial purposes, subject to the terms of CC BY 4.0.
+
+Attribution
+
+When sharing or adapting the documentation, please provide appropriate
+attribution. A suggested attribution is:
+
+    Max Hiroyuki Ueda — BLE-MIRABILIS-BLUE
+
+You should also identify the CC BY 4.0 license, provide a link to the license
+where reasonably practicable, and indicate if changes were made.
+
+Official license:
+https://creativecommons.org/licenses/by/4.0/
+
+The complete legal code is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
